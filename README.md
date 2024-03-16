@@ -1,6 +1,6 @@
 # Todo App
 
-This is a simple Todo application built with React on the frontend and Express on the backend with MongoDB
+This is a simple Todo application built with React on the frontend and Express on the backend with MongoDB as database
 
 ## Features
 
